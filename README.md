@@ -1,4 +1,4 @@
-# Wallet Flutter App | Figma UI Design converted in Flutter  
+# wallet_management Flutter App | Figma UI Design converted in Flutter  
 ## Getting Started
 
 This project is a starting point for a Flutter application.
